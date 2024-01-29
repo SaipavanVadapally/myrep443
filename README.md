@@ -1,1 +1,1 @@
-Basic vanilla Javascript projects
+Basic vanilla Javascript projects with different Javascript Concepts!!!
